@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Web Development @microverse**
 
-- 👨‍💻 All of my projects are available at [https://chudisoft.github.io/portfolio/](https://chudisoft.github.io/Portfolio-Microverse/)
+- 👨‍💻 All of my projects are available at [https://chudisoft.github.io/portfolio-microverse/](https://chudisoft.github.io/Portfolio-Microverse/)
 
 - 💬 Ask me about **Javascript, Typescript, React, Angular, PHP, Python, C, C#, Kotlin, VB.net**
 
