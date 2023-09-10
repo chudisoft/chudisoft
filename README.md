@@ -29,7 +29,7 @@
   **Javascript, React/Redux, Typescript, Angular, PHP, Python, C, C#, Kotlin, VB.net**
 - 📫 How to reach me:
     1. **christopheruduekwe@gmail.com**
-    2. +2348160274007
+    2. <a href="'tel:'+2348160274007">[+2348160274007]()</a>
     3. [Fiverr](https://www.fiverr.com/mogtechsoftwork)
 
 <h3 align="left">Connect with me:</h3>
