@@ -24,8 +24,8 @@
   /></a>
 </p>
 
-- 🌱 I was trained by _[@Microverse](https://microverse.org)_ as on **Full-Stack Web Development**
-- 👨‍💻 All of my projects are available at [https://chudisoft.github.io/portfolio-microverse/](https://chudisoft.github.io/Portfolio-Microverse/)
+- 🌱 I was trained by _[@Microverse](https://microverse.org)_ on **Full-Stack Web Development**
+- 👨‍💻 All of my projects are available at [chudisoft.com](https://dev.chudisoft.com)
 - 💬 I have experience freelancing in the following languages:
   **Javascript, React/Redux, Typescript, Angular, PHP, Python, C, C#, Kotlin, VB.net**
 - 📫 How to reach me:
