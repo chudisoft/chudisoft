@@ -30,7 +30,8 @@
 - 📫 How to reach me:
     1. **christopheruduekwe@gmail.com**
     2. <a href="'tel:'+2348160274007">[+2348160274007]()</a>
-    3. [Fiverr](https://www.fiverr.com/mogtechsoftwork)
+    3. [Portfolio](https://dev.chudisoft.com)
+    4. [Fiverr](https://www.fiverr.com/mogtechsoftwork)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
