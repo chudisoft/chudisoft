@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full-stack web developer from Nigeria</h3>
 <h4 align="center">💼 https://dev.chudisoft.com</h4>
 
-An accomplished full-stack web developer with a rich background in remote software development, bringing a wealth of expertise and experience to the table. My training at Microverse has equipped me with the necessary skills to excel in this field. Since 2016, I have been immersed in the world of freelancing, specializing in web, mobile, and desktop applications across various programming languages and frameworks.
+An accomplished full-stack web developer with a rich background in **remote software development**, bringing a wealth of expertise and experience to the table. My training at [@Microverse](https://microverse.org) has equipped me with the necessary skills to excel in this field. Since 2016, I have been immersed in the world of freelancing, specializing in web, mobile, and desktop applications across various programming languages and frameworks.
 
 My journey has led me to successfully execute over 200 software projects, encompassing a diverse range of applications such as e-commerce websites, point-of-sale systems, remote desktop control applications, real estate management tools, Python scripts, and VBA macros. This extensive experience has not only sharpened my technical abilities but also enriched my problem-solving skills, making me a valuable asset in any software development endeavor.
 
@@ -17,23 +17,15 @@ Database Management: Experienced in MySQL, SQLite, MS SqlServer, PostgreSQL, and
 Tools and Methodologies: Adept in using Git, GitHub, Netlify, VPS, C-Panel, Chrome Dev Tools, and implementing Software Testing and Validation using Scrum Methodology.
 Current Status and Contact Information:
 
-Contact Email: christopheruduekwe@gmail.com
-GitHub Profile: https://github.com/chudisoft
-Online Portfolio: https://chudisoft.github.io/Portfolio/index.html
+- 📫 **How to reach me**:
+    1. Contact Email: christopheruduekwe@gmail.com
+    2. <a href="'tel:'+2348160274007">[+2348160274007]()</a>
+    3. Linkedin Profile: https://github.com/chudisoft
+    4. [Portfolio](https://chudisoft.github.io/Portfolio/index.html)
+    5. [Fiverr](https://www.fiverr.com/mogtechsoftwork)
 
 I am open to new opportunities and collaborations in software development and enjoy engaging with fellow developers and the tech community. I am keen on exploring new challenges and contributing my extensive skill set to innovative projects.
 Feel free to reach out for potential collaborations or opportunities in the field of software development.
-
-
-- 🌱 I was trained by _[@Microverse](https://microverse.org)_ on **Full-Stack Web Development**
-- 👨‍💻 All of my projects are available at [chudisoft.com](https://dev.chudisoft.com)
-- 💬 I have experience freelancing in the following languages:
-  **Javascript, React/Redux, Typescript, Angular, PHP, Python, C, C#, Kotlin, VB.net**
-- 📫 How to reach me:
-    1. **christopheruduekwe@gmail.com**
-    2. <a href="'tel:'+2348160274007">[+2348160274007]()</a>
-    3. [Portfolio](https://dev.chudisoft.com)
-    4. [Fiverr](https://www.fiverr.com/mogtechsoftwork)
 
 <p align="left">
   <img
