@@ -19,8 +19,8 @@ Current Status and Contact Information:
 
 - 📫 **How to reach me**:
     1. Contact Email: christopheruduekwe@gmail.com
-    2. <a href="'tel:'+2348160274007">[+2348160274007]()</a>
-    3. Linkedin Profile: https://github.com/chudisoft
+    2. Phone: <a href="'tel:'+2348160274007">[+2348160274007]()</a>
+    3. Linkedin Profile: https://linkedin.com/in/chudisoft
     4. [Portfolio](https://chudisoft.github.io/Portfolio/index.html)
     5. [Fiverr](https://www.fiverr.com/mogtechsoftwork)
 
@@ -36,11 +36,6 @@ Feel free to reach out for potential collaborations or opportunities in the fiel
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/chrisuduekwe" target="blank"
-    ><img
-      src="https://img.shields.io/twitter/follow/chudisoft?logo=twitter&style=for-the-badge"
-      alt="chudisoft"
-  /></a>
   <a href="https://twitter.com/chrisuduekwe" target="blank"
     ><img
       align="center"
