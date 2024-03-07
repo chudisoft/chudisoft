@@ -3,6 +3,28 @@
 <h3 align="center">A passionate full-stack web developer from Nigeria</h3>
 <h4 align="center">💼 https://dev.chudisoft.com</h4>
 
+An accomplished full-stack web developer with a rich background in remote software development, bringing a wealth of expertise and experience to the table. My training at Microverse has equipped me with the necessary skills to excel in this field. Since 2016, I have been immersed in the world of freelancing, specializing in web, mobile, and desktop applications across various programming languages and frameworks.
+
+My journey has led me to successfully execute over 200 software projects, encompassing a diverse range of applications such as e-commerce websites, point-of-sale systems, remote desktop control applications, real estate management tools, Python scripts, and VBA macros. This extensive experience has not only sharpened my technical abilities but also enriched my problem-solving skills, making me a valuable asset in any software development endeavor.
+
+Additionally, I possess over a decade of experience in computer hardware and software maintenance for laptops and desktops, further broadening my technical acumen.
+
+Key Technical Skills:
+
+Front-End Development: Proficient in CSS3, HTML5, JQuery, JavaScript (ES6), Redux, React, React-Native, Xamarin, .Net MAUI, Angular, and Typescript.
+Back-End Development: Skilled in Flask, FastApi, Laravel, .Net (C#/VB), and Kotlin.
+Database Management: Experienced in MySQL, SQLite, MS SqlServer, PostgreSQL, and Oracle.
+Tools and Methodologies: Adept in using Git, GitHub, Netlify, VPS, C-Panel, Chrome Dev Tools, and implementing Software Testing and Validation using Scrum Methodology.
+Current Status and Contact Information:
+
+Contact Email: christopheruduekwe@gmail.com
+GitHub Profile: https://github.com/chudisoft
+Online Portfolio: https://chudisoft.github.io/Portfolio/index.html
+
+I am open to new opportunities and collaborations in software development and enjoy engaging with fellow developers and the tech community. I am keen on exploring new challenges and contributing my extensive skill set to innovative projects.
+Feel free to reach out for potential collaborations or opportunities in the field of software development.
+
+
 - 🌱 I was trained by _[@Microverse](https://microverse.org)_ on **Full-Stack Web Development**
 - 👨‍💻 All of my projects are available at [chudisoft.com](https://dev.chudisoft.com)
 - 💬 I have experience freelancing in the following languages:
