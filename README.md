@@ -11,13 +11,13 @@ Additionally, I possess over a decade of experience in computer hardware and sof
 
 Key Technical Skills:
 
-Front-End Development: Proficient in CSS3, HTML5, JQuery, JavaScript (ES6), Redux, React, React-Native, Xamarin, .Net MAUI, Angular, and Typescript.
-Back-End Development: Skilled in Flask, FastApi, Laravel, .Net (C#/VB), and Kotlin.
-Database Management: Experienced in MySQL, SQLite, MS SqlServer, PostgreSQL, and Oracle.
-Tools and Methodologies: Adept in using Git, GitHub, Netlify, VPS, C-Panel, Chrome Dev Tools, and implementing Software Testing and Validation using Scrum Methodology.
-Current Status and Contact Information:
+1. Front-End Development: Proficient in CSS3, HTML5, JQuery, JavaScript (ES6), Redux, React, React-Native, Xamarin, .Net MAUI, Angular, and Typescript.
+2. Back-End Development: Skilled in Flask, FastApi, Laravel, .Net (C#/VB), and Kotlin.
+3. Database Management: Experienced in MySQL, SQLite, MS SqlServer, PostgreSQL, and Oracle.
+4. Tools and Methodologies: Adept in using Git, GitHub, Netlify, VPS, C-Panel, Chrome Dev Tools, and implementing Software Testing and Validation using Scrum Methodology.
 
-- 📫 **How to reach me**:
+
+📫 **How to reach me**:
     1. Contact Email: christopheruduekwe@gmail.com
     2. Phone: <a href="'tel:'+2348160274007">[+2348160274007]()</a>
     3. Linkedin Profile: https://linkedin.com/in/chudisoft
