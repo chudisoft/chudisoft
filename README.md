@@ -18,11 +18,11 @@ Key Technical Skills:
 
 
 📫 **How to reach me**:
-    1. Contact Email: christopheruduekwe@gmail.com
-    2. Phone: <a href="'tel:'+2348160274007">[+2348160274007]()</a>
-    3. Linkedin Profile: https://linkedin.com/in/chudisoft
-    4. [Portfolio](https://chudisoft.github.io/Portfolio/index.html)
-    5. [Fiverr](https://www.fiverr.com/mogtechsoftwork)
+- Contact Email: christopheruduekwe@gmail.com
+- Phone: <a href="'tel:'+2348160274007">[+2348160274007]()</a>
+- Linkedin Profile: https://linkedin.com/in/chudisoft
+- [Portfolio](https://chudisoft.github.io/Portfolio/index.html)
+- [Fiverr](https://www.fiverr.com/mogtechsoftwork)
 
 I am open to new opportunities and collaborations in software development and enjoy engaging with fellow developers and the tech community. I am keen on exploring new challenges and contributing my extensive skill set to innovative projects.
 Feel free to reach out for potential collaborations or opportunities in the field of software development.
