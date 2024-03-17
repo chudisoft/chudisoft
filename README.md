@@ -11,10 +11,10 @@ Additionally, I possess over a decade of experience in computer hardware and sof
 
 Key Technical Skills:
 
-1. Front-End Development: Proficient in CSS3, HTML5, JQuery, JavaScript (ES6), Redux, React, React-Native, Xamarin, .Net MAUI, Angular, and Typescript.
-2. Back-End Development: Skilled in Flask, FastApi, Laravel, .Net (C#/VB), and Kotlin.
-3. Database Management: Experienced in MySQL, SQLite, MS SqlServer, PostgreSQL, and Oracle.
-4. Tools and Methodologies: Adept in using Git, GitHub, Netlify, VPS, C-Panel, Chrome Dev Tools, and implementing Software Testing and Validation using Scrum Methodology.
+1. Front-End Development: CSS3, HTML5, JQuery, JavaScript (ES6), Redux, React, React-Native, Xamarin, .Net MAUI, Angular, and Typescript.
+2. Back-End Development: Flask, FastApi, Laravel, .Net (C#/VB), and Kotlin.
+3. Database Management: MySQL, SQLite, MS SqlServer, PostgreSQL, and Oracle.
+4. Tools and Methodologies: Git, GitHub, Netlify, VPS, C-Panel, Chrome Dev Tools, and implementing Software Testing and Validation using Scrum Methodology.
 
 
 📫 **How to reach me**:
