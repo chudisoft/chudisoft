@@ -1,7 +1,7 @@
 <!--![MasterHead](https://t4.ftcdn.net/jpg/03/08/82/39/360_F_308823955_XTMT8TNKmOYnPEwmEmfnskgNqQv3hQE5.jpg)-->
 <h1 align="center">Hi 👋, I am Christopher Uduekwe</h1>
 <h3 align="center">A passionate full-stack web developer from Nigeria</h3>
-<h4 align="center">💼 https://dev.chudisoft.com</h4>
+<h4 align="center">💼 https://chudisoft.com</h4>
 
 An accomplished full-stack web developer with a rich background in **remote software development**, bringing a wealth of expertise and experience to the table. My training at [@Microverse](https://microverse.org) has equipped me with the necessary skills to excel in this field. Since 2016, I have been working as a freelancer, specializing in web, mobile, and desktop applications across various programming languages and frameworks.
 
