@@ -25,6 +25,8 @@ Key Technical Skills:
 
 📫 **Personal Projects**:
 - [Betting Platform](https://8plodds.com/)
+- [Property/Rental Management System](https://chuditech.com/)
+- [Ecommerce Platform](https://carevalues.ng/)
 - [Ticketing Platform](https://paradiseblissltd.com/)
 - [Schedule Meetings](https://test.paradiseblissltd.com/)
 - [Portfolio](https://chudisoft.github.io/Portfolio/index.html)
