@@ -21,8 +21,14 @@ Key Technical Skills:
 - Contact Email: christopheruduekwe@gmail.com
 - Phone: <a href="'tel:'+2348160274007">[+2348160274007]()</a>
 - Linkedin Profile: https://linkedin.com/in/chudisoft
+
+
+📫 **Personal Projects**:
+- [Betting Platform](https://8plodds.com/)
+- [Ticketing Platform](https://paradiseblissltd.com/)
+- [Schedule Meetings](https://test.paradiseblissltd.com/)
 - [Portfolio](https://chudisoft.github.io/Portfolio/index.html)
-- [Fiverr](https://www.fiverr.com/mogtechsoftwork)
+- [See Also](https://github.com/Chudisoft-Technologies/)
 
 I am open to new opportunities and collaborations in software development and enjoy engaging with fellow developers and the tech community. I am keen on exploring new challenges and contributing my extensive skill set to innovative projects.
 Feel free to reach out for potential collaborations or opportunities in the field of software development.
